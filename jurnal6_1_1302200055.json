@@ -1,0 +1,15 @@
+{
+   "firstName": "Zaky",
+   "lastName": "Nanda",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Budiutomo",
+       "city": "Bengkulu",
+       "state": "Bengkulu"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C5", "name": "Basis Data" }
+   ]
+}
