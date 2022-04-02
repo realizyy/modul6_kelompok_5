@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Black",
+       "lastName": "Jack",
+       "gender": "male",
+       "age": 28,
+       "nim": "135791"
+    },
+    {
+       "firstName": "Far",
+       "lastName": "Sad",
+       "gender": "male",
+       "age": 30,
+       "nim": "246810"
+    },
+    {
+       "firstName": "Jomblo",
+       "lastName": "Jones",
+       "gender": "female",
+       "age": 24,
+       "nim": "123456"
+    }
+  ]
+}
