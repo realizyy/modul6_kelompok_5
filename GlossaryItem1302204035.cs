@@ -9,7 +9,7 @@ public class GlossaryItem1302204035
         //path
         string loc = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
         //read Json file
-        string json = File.ReadAllText(loc + "\\jurnal6_3_nim.json");
+        string json = File.ReadAllText(loc + "\\jurnal6_3_1302204035.json");
         //convert json
         dynamic data = JsonConvert.DeserializeObject(json);
         dynamic gentry = data.glossary.GlossDiv.GlossList.GlossEntry;
