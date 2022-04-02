@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Hesni",
+       "lastName": "Arni",
+       "gender": "female",
+       "age": 19,
+       "nim": "1302200055"
+    },
+    {
+      "firstName": "Hafiz",
+      "lastName": "Nanda",
+      "gender": "male",
+      "age": 17,
+      "nim": "1302200055"
+    },
+    {
+      "firstName": "Muthia",
+      "lastName": "Nanda",
+      "gender": "female",
+      "age": 12,
+      "nim": "1302200055"
+    }
+  ]
+}
