@@ -1,0 +1,39 @@
+{
+  "members" : [
+    {
+       "firstName": "Real",
+       "lastName": "Andri",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302204035"
+    },
+    {
+       "firstName": "Zaky",
+       "lastName": "Eka",
+       "gender": "male",
+       "age": 20,
+       "nim": "5678568567"
+    },
+    {
+       "firstName": "HENDRIAN",
+       "lastName": "GUNARWAN",
+       "gender": "male",
+       "age": 20,
+       "nim": "456754675"
+    },
+    {
+      "firstName": "PUTRI",
+      "lastName": "LARASATI",
+      "gender": "female",
+      "age": 20,
+      "nim": "456754675"
+    },
+    {
+      "firstName": "ROYTA",
+      "lastName": "MARPAUNG",
+      "gender": "female",
+      "age": 20,
+      "nim": "456754675"
+    }
+  ]
+}
