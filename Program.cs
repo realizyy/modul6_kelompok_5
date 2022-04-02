@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using modul6_kelompok_5;
 
-Console.WriteLine("Hello, World!");
+DataMahasiswa1302204061 mhs = new DataMahasiswa1302204061();
+mhs.ReadJSON();
+TeamMember1302204061 team = new TeamMember1302204061();
+team.ReadJSON();
+GlossaryItem_1302204061_Royta_Marpaung glossary = new GlossaryItem_1302204061_Royta_Marpaung();
+
+
