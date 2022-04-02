@@ -1,0 +1,20 @@
+{
+   "firstName": "Real",
+   "lastName": "Andri",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Perumnas",
+       "city": "Tangerang",
+       "state": "Banten"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2D3", "name": "Kecerdasan Buatan" },
+       { "code": "CRI2E4", "name": "Basis Data" },
+       { "code": "CII2A3", "name": "Organisasi dan Arsitektur Komputer" },
+       { "code": "CII3B4", "name": "Pemrograman Berorientasi Objek" },
+       { "code": "CRI2F2", "name": "Proyek Tingkat II" }
+     
+   ]
+}
